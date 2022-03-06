@@ -66,6 +66,6 @@ element positioning
 - Frontend Mentor - @cyrilkodjo (https://www.frontendmentor.io/profile/cyrilkodjo)
 - Twitter - @kojofrimpong (https://www.twitter.com/kojofrimpong)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
 ## Acknowledgments
+
+Got a lot of guidance from https://www.frontendmentor.io/solutions/responsive-order-summary-component-KY7bmgbw_
