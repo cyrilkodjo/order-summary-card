@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: 
-- Live Site URL: (https://cyrilkodjo.github.io/order-summary-card)
+- Live Site URL: (https://cyrilkodjo.github.io/order-summary-card/)
 
 ## My process
 
